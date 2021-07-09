@@ -1,2 +1,6 @@
 # Notes
-Semestrální projekt pro předmět KAJ 2021
+Vue.js web application project.
+## Used technologies
+- Vue.js
+- Quasar Framework
+- Node.js
